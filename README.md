@@ -1,10 +1,5 @@
 # Hee-Jae's GitHub
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Hee-Jae&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hee-Jae&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Hee-Jae)](https://git.io/streak-stats)
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=jhj967878)](https://solved.ac/jhj967878)
-
 
 
 
